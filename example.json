@@ -1,0 +1,85 @@
+{
+    "component": {
+        "id": "AWmcQzzjBt4353CdoEiB",
+        "key": "teste_agulhari",
+        "name": "Teste Agulhari",
+        "qualifier": "TRK",
+        "measures": [
+            {
+                "metric": "bugs",
+                "value": "75",
+                "bestValue": false
+            },
+            {
+                "metric": "blocker_violations",
+                "value": "18",
+                "bestValue": false
+            },
+            {
+                "metric": "line_coverage",
+                "value": "0.0",
+                "bestValue": false
+            },
+            {
+                "metric": "sqale_index",
+                "value": "94412",
+                "bestValue": false
+            },
+            {
+                "metric": "critical_violations",
+                "value": "3640",
+                "bestValue": false
+            },
+            {
+                "metric": "code_smells",
+                "value": "7519",
+                "bestValue": false
+            },
+            {
+                "metric": "sqale_debt_ratio",
+                "value": "0.9",
+                "bestValue": false
+            },
+            {
+                "metric": "sqale_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "vulnerabilities",
+                "value": "20",
+                "bestValue": false
+            },
+            {
+                "metric": "minor_violations",
+                "value": "640",
+                "bestValue": false
+            },
+            {
+                "metric": "major_violations",
+                "value": "3270",
+                "bestValue": false
+            },
+            {
+                "metric": "false_positive_issues",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "violations",
+                "value": "7614",
+                "bestValue": false
+            },
+            {
+                "metric": "coverage",
+                "value": "0.0",
+                "bestValue": false
+            },
+            {
+                "metric": "reliability_remediation_effort",
+                "value": "437",
+                "bestValue": false
+            }
+        ]
+    }
+}

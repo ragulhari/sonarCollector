@@ -1,0 +1,18 @@
+{
+    "configs": {
+        
+        "db": {
+            "type": "MYSQL",
+            "user": "",
+            "password": "",
+            "host": "",
+            "port": 0,
+            "database": ""    
+        },
+
+        "sonarqube": {
+            "domain": "",
+            "token": "" 
+        }
+    } 
+}
